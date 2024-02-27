@@ -3,7 +3,7 @@
 ## Overview
 ObsidianSpyder is a program that helps the user research new topics. After receiving a research topic from the user, the program sends multiple queries to the OpenAI API in order to 'learn' about the specified topic. The program then formats and displays this information in a easy-to-read format (needs to be opened in the Obsidian note-taking app). In the example given, I have told the program to research Unity Trust Bank.
 
-![Example Image](https://i.imgur.com/c4x3wNG.png)
+![Screenshot of output](https://i.imgur.com/c4x3wNG.png)
 
 ## Features
 - **Automated Content Generation**: Leverages OpenAI's ChatCompletion to create detailed summaries and introductions on specified topics.
